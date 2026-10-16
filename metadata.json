@@ -1,0 +1,6 @@
+{
+  "name": "Nexia — Conexiones reales, en un espacio seguro",
+  "description": "Plataforma social moderna desarrollada por Nexia Technologies para conectar personas, crear amistades, unirse a comunidades y compartir intereses de forma segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
